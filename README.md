@@ -8,9 +8,9 @@ The Complete Machine Learning & Data Science Bootcamp 2023 is an intensive and c
 
 ## Projects
 
-- **🚜 Bluebook for Bluedozers** - Predicting the sale price of bulldozers using Linear Regression machine learning model.
-- **💓 Heart Disease** - Predicting whether or not soneone has heart disease based on their medical attributes using Logistic Regression model.
-- **🐶 Dog Breed Classification** - Identifying the breed of a dog given an image of a dog using TensorFlow.
+- **[🚜 Bluebook for Bluedozers](https://github.com/SecondGG/ZTM-MachineLearning-DataScience-Bootcamp/blob/0e7ad3fed45f53bc12437beb9e9e9c2016dda5b4/bluebook-for-bulldozers/Blue%20Book%20for%20Bulldozers.ipynb)** - Predicting the sale price of bulldozers using Linear Regression machine learning model.
+- **[💓 Heart Disease](https://github.com/SecondGG/ZTM-MachineLearning-DataScience-Bootcamp/blob/0e7ad3fed45f53bc12437beb9e9e9c2016dda5b4/heart-disease-project/Heart%20Disease%20Milestone%20Project.ipynb)** - Predicting whether or not soneone has heart disease based on their medical attributes using Classification models.
+- **[🐶 Dog Breed Classification](https://github.com/SecondGG/ZTM-MachineLearning-DataScience-Bootcamp/blob/0e7ad3fed45f53bc12437beb9e9e9c2016dda5b4/deep-learning-dog-breed-classification/deep_learning_dog_breed_classification.ipynb)** - Identifying the breed of a dog given an image of a dog using TensorFlow.
 
 ## Technologies Used
 
